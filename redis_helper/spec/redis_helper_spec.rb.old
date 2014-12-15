@@ -1,5 +1,0 @@
-require_relative '../lib/redis_helper'
- 
-require 'rspec'
-require 'rspec/expectations'
-require 'yaml'
